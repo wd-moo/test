@@ -1,5 +1,5 @@
+#!/bin/sh
 #i don't know how to say i am just handsome,  to let all know that!
-#/bin/bash
+cd 
 touch b
 echo " i am just a word " >> b
-end
