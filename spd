@@ -199,9 +199,9 @@ class weixin_spider:
         self.config = {
             'host': '127.0.0.1',
             'port': 3306,
-            'user': 'xxxx',
-            'passwd': 'xxxx',
-            'db': 'xxxx',
+            'user': 'root',
+            'passwd': '2',
+            'db': 'weixin',
             'charset': 'utf8mb4'
         }
         self.conn = mdb.connect(**self.config)
@@ -235,9 +235,9 @@ class weixin_spider:
         self.config = {
             'host': '127.0.0.1',
             'port': 3306,
-            'user': 'xxxx',
-            'passwd': 'xxxx',
-            'db': 'xxxx',
+            'user': 'root',
+            'passwd': '2',
+            'db': 'weixin',
             'charset': 'utf8mb4'
         }
         self.conn = mdb.connect(**self.config)
@@ -277,9 +277,9 @@ class weixin_spider:
         self.config = {
             'host': '127.0.0.1',
             'port': 3306,
-            'user': 'xxxx',
-            'passwd': 'xxxx',
-            'db': 'xxxx',
+            'user': 'root',
+            'passwd': '2',
+            'db': 'weixin',
             'charset': 'utf8mb4'
         }
         self.conn = mdb.connect(**self.config)
@@ -315,9 +315,9 @@ class weixin_spider:
         self.config = {
             'host': '127.0.0.1',
             'port': 3306,
-            'user': 'xxxx',
-            'passwd': 'xxxx',
-            'db': 'xxxx',
+            'user': 'root',
+            'passwd': '2',
+            'db': 'weixin',
             'charset': 'utf8mb4'
         }
         self.conn = mdb.connect(**self.config)
